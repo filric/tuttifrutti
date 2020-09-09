@@ -1,0 +1,13 @@
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\bin\Debug\netcoreapp3.1\Projekt2.exe
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\bin\Debug\netcoreapp3.1\Projekt2.deps.json
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\bin\Debug\netcoreapp3.1\Projekt2.runtimeconfig.json
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\bin\Debug\netcoreapp3.1\Projekt2.runtimeconfig.dev.json
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\bin\Debug\netcoreapp3.1\Projekt2.dll
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\bin\Debug\netcoreapp3.1\Projekt2.pdb
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\obj\Debug\netcoreapp3.1\Projekt2.csprojAssemblyReference.cache
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\obj\Debug\netcoreapp3.1\Projekt2.AssemblyInfoInputs.cache
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\obj\Debug\netcoreapp3.1\Projekt2.AssemblyInfo.cs
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\obj\Debug\netcoreapp3.1\Projekt2.csproj.CoreCompileInputs.cache
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\obj\Debug\netcoreapp3.1\Projekt2.dll
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\obj\Debug\netcoreapp3.1\Projekt2.pdb
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\Projekt2\obj\Debug\netcoreapp3.1\Projekt2.genruntimeconfig.cache
