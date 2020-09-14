@@ -1,0 +1,4 @@
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\blö\obj\Debug\netcoreapp3.1\blö.csprojAssemblyReference.cache
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\blö\obj\Debug\netcoreapp3.1\blö.AssemblyInfoInputs.cache
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\blö\obj\Debug\netcoreapp3.1\blö.AssemblyInfo.cs
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\HelloWorld\blö\obj\Debug\netcoreapp3.1\blö.csproj.CoreCompileInputs.cache
