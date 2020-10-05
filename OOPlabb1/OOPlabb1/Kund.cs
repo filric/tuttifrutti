@@ -6,5 +6,6 @@ namespace OOPlabb1
 {
     class Kund
     {
+        public List<Produkt> kundKorg = new List<Produkt>();
     }
 }

@@ -6,5 +6,6 @@ namespace OOPlabb1
 {
     class Produkt
     {
+        public string produktTyp;
     }
 }
