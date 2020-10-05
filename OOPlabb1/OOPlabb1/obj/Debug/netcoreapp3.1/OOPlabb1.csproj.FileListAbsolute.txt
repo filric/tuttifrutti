@@ -1,0 +1,13 @@
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\bin\Debug\netcoreapp3.1\OOPlabb1.exe
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\bin\Debug\netcoreapp3.1\OOPlabb1.deps.json
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\bin\Debug\netcoreapp3.1\OOPlabb1.runtimeconfig.json
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\bin\Debug\netcoreapp3.1\OOPlabb1.runtimeconfig.dev.json
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\bin\Debug\netcoreapp3.1\OOPlabb1.dll
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\bin\Debug\netcoreapp3.1\OOPlabb1.pdb
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\obj\Debug\netcoreapp3.1\OOPlabb1.csprojAssemblyReference.cache
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\obj\Debug\netcoreapp3.1\OOPlabb1.AssemblyInfoInputs.cache
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\obj\Debug\netcoreapp3.1\OOPlabb1.AssemblyInfo.cs
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\obj\Debug\netcoreapp3.1\OOPlabb1.csproj.CoreCompileInputs.cache
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\obj\Debug\netcoreapp3.1\OOPlabb1.dll
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\obj\Debug\netcoreapp3.1\OOPlabb1.pdb
+C:\Users\filippa.richardsson\Documents\GitHub\tuttifrutti\OOPlabb1\OOPlabb1\obj\Debug\netcoreapp3.1\OOPlabb1.genruntimeconfig.cache

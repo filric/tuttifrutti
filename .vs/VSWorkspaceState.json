@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\HelloWorld",
-    "\\HelloWorld\\Projekt2"
+    "\\OOP",
+    "\\OOPlabb1",
+    "\\OOPlabb1\\OOPlabb1",
+    "\\OOP\\OOP"
   ],
-  "SelectedNode": "\\HelloWorld\\Projekt2\\Program.cs",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\OOPlabb1\\OOPlabb1\\Program.cs",
+  "PreviewInSolutionExplorer": true
 }
