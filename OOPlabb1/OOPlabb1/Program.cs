@@ -7,6 +7,7 @@ namespace OOPlabb1
         static void Main(string[] args)
         {
             int val;
+            var kund = new Kund();
             do
             {
                 Console.WriteLine("Du, mjölkhjärna, välj nåt av följande");
@@ -16,7 +17,7 @@ namespace OOPlabb1
 
                 val = Convert.ToInt32(Console.ReadLine());
 
-                var kund = new Kund();
+               
                 var produkt = new Produkt();
 
                 if (val == 1)
@@ -27,14 +28,11 @@ namespace OOPlabb1
                 }
                 if (val == 2)
                 {
-                    for (int i = 0; i < kund.kundKorg.Count; i++)
+                    
+                    foreach (var prod in kund.kundKorg)
                     {
-                        Console.WriteLine(kund.kundKorg[i]);
+                        Console.WriteLine(prod.produktTyp);
                     }
-                    //foreach (var prod in kund.kundKorg)
-                    //{
-                    //    Console.WriteLine(prod.produktTyp);
-                    //}
                 }
             } while (val != 9);
             Console.WriteLine("Programmet är avlsutat. Gå och drick mjölk");
