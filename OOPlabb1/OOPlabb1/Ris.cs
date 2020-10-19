@@ -4,8 +4,7 @@ using System.Text;
 
 namespace OOPlabb1
 {
-    class Energy : Produkt
+    class Ris : Produkt
     {
-        public string Flavor { get; set; }
     }
 }

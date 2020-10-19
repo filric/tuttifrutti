@@ -4,8 +4,7 @@ using System.Text;
 
 namespace OOPlabb1
 {
-    class Coffee : Produkt
+    class Pasta : Produkt
     {
-        public string RoastLevel { get; set; }
     }
 }

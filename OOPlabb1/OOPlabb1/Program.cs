@@ -22,8 +22,30 @@ namespace OOPlabb1
 
                 if (val == 1)
                 {
-                    produkt.produktTyp = "småbarn";
-                    kund.kundKorg.Add(produkt);
+                    Console.WriteLine("Vad vill du köpa?");
+                    Console.WriteLine("\t1. Ris");
+                    Console.WriteLine("\t2. Potatis");
+                    Console.WriteLine("\t3. Pasta");
+                    var andraVal = Console.ReadLine();
+
+                    if(andraVal == "1")
+                    {
+                        kund.kundKorg.Add(new Ris());
+                    }
+                    else if (andraVal == "2")
+                    {
+                        kund.kundKorg.Add(new Potatis());
+                    }
+                    else if (andraVal == "3")
+                    {
+                        kund.kundKorg.Add(new Pasta());
+                    }
+                    else
+                    {
+                        continue;
+                    }
+
+
                     Console.WriteLine("Produkt tillagd");
                 }
                 if (val == 2)
@@ -31,7 +53,7 @@ namespace OOPlabb1
                     
                     foreach (var prod in kund.kundKorg)
                     {
-                        Console.WriteLine(prod.produktTyp);
+                        Console.WriteLine(prod.GetType().Name);
                     }
                 }
             } while (val != 9);

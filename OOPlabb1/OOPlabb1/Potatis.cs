@@ -4,8 +4,7 @@ using System.Text;
 
 namespace OOPlabb1
 {
-    class Te : Produkt
+    class Potatis : Produkt
     {
-        public string color { get; set; }
     }
 }
